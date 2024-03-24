@@ -1,0 +1,14 @@
+{
+  "resourceName": "moses",
+  "policyUUID": "9acc93dd",
+  "bucketName": "moses",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
